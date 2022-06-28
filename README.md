@@ -2,7 +2,7 @@
 
 My [AstroNvim](https://github.com/kabinspace/AstroVim) configuration
 
-# Setup
+## Setup
 Install and setup AstroNvim - https://astronvim.github.io/
 
 Install black, flake8 and ipython:
@@ -28,8 +28,8 @@ Open NeoVim and sync plugins:
 :PackerSync
 ```
 
-# Useful keymaps
-AstroNvim keymaps can be found [here] (https://astronvim.github.io/usage/walkthrough)
+## Useful keymaps
+[AstroNvim keymaps can be found here](https://astronvim.github.io/usage/walkthrough)<br>
 Several keys have been remapped:
 
 **Open File Tree**
