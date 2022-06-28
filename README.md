@@ -27,3 +27,14 @@ Open NeoVim and sync plugins:
 ```
 :PackerSync
 ```
+
+# Useful keymaps
+AstroNvim keymaps can be found [here] (https://astronvim.github.io/usage/walkthrough)
+Several keys have been remapped:
+
+**Open File Tree**
+`<CTRL> N`<br>
+**Move to next buffer**
+`<SHIFT>`<br>
+**Move to previous buffer**
+`<CTRL> <SHIFT>`<br>
